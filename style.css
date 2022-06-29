@@ -21,6 +21,7 @@ nav
 {
 	background: rgb(102, 196, 196);
 	padding:15px;
+	display: flex;
 }
 
 span
